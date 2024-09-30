@@ -1,0 +1,27 @@
+.seccion1 {
+    margin-top: 100px;
+    padding-top:0px; /* Padding de 20 píxeles en todos los lados */
+    margin: 100px
+}
+.seccion2 {
+    margin: 10px ;/* Padding de 20 píxeles en todos los lados */
+    background: linear-gradient(to right, #00fcf8, #000000); /* Fondo degradado */
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);
+}
+.seccion3 {
+    margin: 0px ;
+    padding: 10px; /* Padding de 20 píxeles en todos los lados */
+    background-color: #fbfbfb;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);
+}
+body {
+    background-color: #eff1f1; /* Color de fondo para toda la página */
+}
+.diseño {
+    margin: 0px ;
+    padding: 15px;
+    color: #fbfbfb;
+    background: linear-gradient(to right, #000000, #06efef);
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);
+
+}
