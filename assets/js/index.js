@@ -1,6 +1,6 @@
 const listaComputadores = document.getElementById('listaComputadores');
 
-fetch('../data/info.json')
+fetch('data/info.json')
     .then(response => response.json())
     .then(data => {
         data.computadores.forEach ( (computadores , index) => {
